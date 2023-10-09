@@ -1,1 +1,1 @@
-Portfolio website: https://alexreniak.github.io/portfolio/
+Portfolio website: https://alexreniak.github.io
